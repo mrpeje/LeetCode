@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "383.RansomNote", "383.Ranso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{7C69B4CB-66AD-48E1-BA76-3C34DD1083E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.ValidParentheses", "20.ValidParentheses\20.ValidParentheses.csproj", "{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.ValidParentheses", "20.ValidParentheses\20.ValidParentheses.csproj", "{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278.FirstBadVersion", "278.FirstBadVersion\278.FirstBadVersion.csproj", "{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
