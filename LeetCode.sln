@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.ValidParentheses", "20.ValidParentheses\20.ValidParentheses.csproj", "{5626B80A-EDD8-469F-8A3B-C77624A3DEEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "278.FirstBadVersion", "278.FirstBadVersion\278.FirstBadVersion.csproj", "{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "278.FirstBadVersion", "278.FirstBadVersion\278.FirstBadVersion.csproj", "{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "409.LongestPalindrome", "409.LongestPalindrome\409.LongestPalindrome.csproj", "{0701BD3D-495E-4471-9E52-84C25A11F5FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BF83B2F-D5D4-48BC-8B9E-25BAC2B548F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0701BD3D-495E-4471-9E52-84C25A11F5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0701BD3D-495E-4471-9E52-84C25A11F5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0701BD3D-495E-4471-9E52-84C25A11F5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0701BD3D-495E-4471-9E52-84C25A11F5FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
