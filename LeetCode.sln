@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.3Sum", "15.3Sum\15.3Sum.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169.MajorityElement", "169.MajorityElement\169.MajorityElement.csproj", "{7B7F1671-E3D6-45E0-8668-5B623C1883DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67.AddBinary", "67.AddBinary\67.AddBinary.csproj", "{74B8F310-E33B-421F-8AD6-6C50DB7ECBFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67.AddBinary", "67.AddBinary\67.AddBinary.csproj", "{74B8F310-E33B-421F-8AD6-6C50DB7ECBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70.ClimbingStairs", "70.ClimbingStairs\70.ClimbingStairs.csproj", "{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{74B8F310-E33B-421F-8AD6-6C50DB7ECBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74B8F310-E33B-421F-8AD6-6C50DB7ECBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74B8F310-E33B-421F-8AD6-6C50DB7ECBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
