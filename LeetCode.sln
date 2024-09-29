@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67.AddBinary", "67.AddBinar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70.ClimbingStairs", "70.ClimbingStairs\70.ClimbingStairs.csproj", "{94B8E57C-8AC3-439F-8D7E-BB18EC8C1944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242.ValidAnagram", "242.ValidAnagram\242.ValidAnagram.csproj", "{51549A81-D9D6-4F3D-8266-D4737649A66F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "242.ValidAnagram", "242.ValidAnagram\242.ValidAnagram.csproj", "{51549A81-D9D6-4F3D-8266-D4737649A66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{268CEC17-28DD-4BC0-AEEF-D2311ACD92CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{51549A81-D9D6-4F3D-8266-D4737649A66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51549A81-D9D6-4F3D-8266-D4737649A66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51549A81-D9D6-4F3D-8266-D4737649A66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268CEC17-28DD-4BC0-AEEF-D2311ACD92CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268CEC17-28DD-4BC0-AEEF-D2311ACD92CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268CEC17-28DD-4BC0-AEEF-D2311ACD92CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268CEC17-28DD-4BC0-AEEF-D2311ACD92CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
