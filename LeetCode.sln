@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Longest Substring Withou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "733.FloodFill", "733.FloodFill\733.FloodFill.csproj", "{49DF3B4C-27ED-4515-B104-4AA6D7BCCFBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "994.RottingOranges", "994.RottingOranges\994.RottingOranges.csproj", "{B0779D18-C124-4C16-BED3-7410BBA536AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "994.RottingOranges", "994.RottingOranges\994.RottingOranges.csproj", "{B0779D18-C124-4C16-BED3-7410BBA536AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "542.01Matrix", "542.01Matrix\542.01Matrix.csproj", "{E0E52BAC-981E-4F90-9604-6749AE33F439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B0779D18-C124-4C16-BED3-7410BBA536AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0779D18-C124-4C16-BED3-7410BBA536AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0779D18-C124-4C16-BED3-7410BBA536AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0E52BAC-981E-4F90-9604-6749AE33F439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E52BAC-981E-4F90-9604-6749AE33F439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E52BAC-981E-4F90-9604-6749AE33F439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E52BAC-981E-4F90-9604-6749AE33F439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
